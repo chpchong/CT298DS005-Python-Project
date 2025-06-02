@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<HEAD
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
 26/5/2025<img src="pic.md/xmojl0bk.png"
 style="width:3.35417in;height:2.95833in" />
