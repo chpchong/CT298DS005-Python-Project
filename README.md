@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/xmojl0bk.png"
+26/5/2025<img src="pic.md/xmojl0bk.png"
 style="width:3.35417in;height:2.95833in" />
 
 CT298DS005 Python Project:
@@ -42,7 +42,7 @@ Appendix........................................................................
 > Page 2
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/0b5gjx3i.png"
+26/5/2025<img src="pic.md/0b5gjx3i.png"
 style="width:5.52083in;height:3.11458in" />
 
 1\. Company Background
@@ -73,8 +73,8 @@ investors while generating substantial management income.
 > Page 3
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/qxarl3nk.png"
-style="width:5.65625in;height:3.11458in" /><img src="pic/rwmasngm.png"
+26/5/2025<img src="pic.md/qxarl3nk.png"
+style="width:5.65625in;height:3.11458in" /><img src="pic.md/rwmasngm.png"
 style="width:5.625in;height:3.10417in" />
 
 > ● Diagram 2: Logarithmic Income Comparison - Global Major Stock
@@ -86,7 +86,7 @@ style="width:5.625in;height:3.10417in" />
 > Page 4
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/v2voo5ei.png"
+26/5/2025<img src="pic.md/v2voo5ei.png"
 style="width:5.92708in;height:3.15625in" />
 
 > ● Diagram 4: Logarithmic Income and Simple Income Comparison - Global
@@ -116,8 +116,8 @@ analysis or ARIMA, based on a robust dataset encompassing the
 > Page 5
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/hbaqomur.png"
-style="width:5.52083in;height:3.73958in" /><img src="pic/bj1fwjvo.png"
+26/5/2025<img src="pic.md/hbaqomur.png"
+style="width:5.52083in;height:3.73958in" /><img src="pic.md/bj1fwjvo.png"
 style="width:6.27083in;height:3.36458in" />
 
 last 10 years (2014-2024). If the forecast indicates a favorable
@@ -183,8 +183,8 @@ for deeper scoring and comparative analysis.
 > Page 7
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/bp2yt0dk.png"
-style="width:6.27083in;height:2.61458in" /><img src="pic/x140a3fs.png"
+26/5/2025<img src="pic.md/bp2yt0dk.png"
+style="width:6.27083in;height:2.61458in" /><img src="pic.md/x140a3fs.png"
 style="width:6.27083in;height:3.125in" />
 
 In summary, we’ve established an adequate pipeline, from data
@@ -208,7 +208,7 @@ PE_weight = 0.1
 > Page 8
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/qxu4xwuf.png"
+26/5/2025<img src="pic.md/qxu4xwuf.png"
 style="width:6.27083in;height:3.375in" />
 
 Growth Score = \[‘Growth(%)’\]\*Growth_weight
@@ -238,7 +238,7 @@ explanation:
 > Page 9
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/500uoeyw.png"
+26/5/2025<img src="pic.md/500uoeyw.png"
 style="width:5.63542in;height:4.19792in" />
 
 3\. Strategic Shift
@@ -265,7 +265,7 @@ are the stocks identified for 2021 through 2024.
 > Page 10
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/vg431qm2.png"
+26/5/2025<img src="pic.md/vg431qm2.png"
 style="width:5.57292in;height:4.19792in" />
 
 > ● Diagram 8: Heatmap Analysis - Performance Ranking and Selection
@@ -274,8 +274,8 @@ style="width:5.57292in;height:4.19792in" />
 > Page 11
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/sbsapl2i.png"
-style="width:5.5625in;height:4.1875in" /><img src="pic/y0thd1s5.png"
+26/5/2025<img src="pic.md/sbsapl2i.png"
+style="width:5.5625in;height:4.1875in" /><img src="pic.md/y0thd1s5.png"
 style="width:5.59375in;height:4.14583in" />
 
 > ● Diagram 9: Heatmap Analysis - Performance Ranking and Selection
@@ -287,7 +287,7 @@ style="width:5.59375in;height:4.14583in" />
 > Page 12
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/d2wknzkp.png"
+26/5/2025<img src="pic.md/d2wknzkp.png"
 style="width:5.3125in;height:2.27083in" />
 
 The performance of the selected portfolio for the years 2021, 2022, and
@@ -307,7 +307,7 @@ calculated, as illustrated in the following diagram.
 > along with the Tracker Fund, HK (2800) and the 10-Year U.S. Government
 > Bond Rate.
 >
-> <img src="pic/eacszwdx.png"
+> <img src="pic.md/eacszwdx.png"
 > style="width:5.35417in;height:3.73958in" />Page 13
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation 26/5/2025
@@ -315,7 +315,7 @@ CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation 26/5/2025
 > Page 14
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/0dzqul3s.png"
+26/5/2025<img src="pic.md/0dzqul3s.png"
 style="width:5.35417in;height:4.44792in" />
 
 4.Additional Analysis
@@ -345,7 +345,7 @@ decision will be submitted for board approval.
 > Page 15
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/4ah4cs2d.png" style="width:5.5in;height:3.39583in" /><img src="pic/veiss1ic.png"
+26/5/2025<img src="pic.md/4ah4cs2d.png" style="width:5.5in;height:3.39583in" /><img src="pic.md/veiss1ic.png"
 style="width:4.89583in;height:3.52083in" />
 
 > ● **Diagram** **14**: Correlation Heatmap - Factors Influencing Growth
@@ -357,8 +357,8 @@ style="width:4.89583in;height:3.52083in" />
 > Page 16
 
 CT298DS005 Strategic-Decision-Report-Hong-Kong-Fund-Evaluation
-26/5/2025<img src="pic/gof2qhaj.png"
-style="width:4.95833in;height:3.55208in" /><img src="pic/fms1sqp1.png"
+26/5/2025<img src="pic.md/gof2qhaj.png"
+style="width:4.95833in;height:3.55208in" /><img src="pic.md/fms1sqp1.png"
 style="width:5.34375in;height:3.88542in" />
 
 > ● **Diagram** **16**: Correlation Heatmap - Factors Influencing Growth
