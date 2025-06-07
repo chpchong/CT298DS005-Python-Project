@@ -5,10 +5,7 @@ style="width:3.35417in;height:2.95833in" />
 
 CT298DS005 Python Project:
 
-Strategic Decision Report on Outcomes Related to Economic Challenges in
-Hong Kong
-
-(2021-2024) and the Potential Dissolution of the Fund in 2025
+# Strategic Decision Report on Outcomes Related to Economic Challenges in　Hong Kong(2021-2024) and the Potential Dissolution of the Fund in 2025
 
 ***Team*** ***Member:*** ***6*** 甘慶腾
 
